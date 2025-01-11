@@ -1,51 +1,49 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Desafio DIO - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, sou a Sandrinha Factori e inspirada por Venilton da DIO estou aqui para apresentar alguns aprendizados no universo das IAs!
+Inspirado na hype _"Natty or Not", este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis e um universo novo para mim e muito interessante!! Empolgada em adquirir novos conhecimentos...
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+E Quem Sabe!?🤔...
+Um Upgrade na minha Carreira dentro da CAIXA!
+
+## 🎯 Bora lá para o Mundo de Desafios das IAs para Iniciantes!? 💪👩🏼‍🦰
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+1. **Explorar IAs Generativas**: Utilizar as tecnologias IAs para criar conteúdos que sejam o mais realista possível inspirada no convite da Caixa empresa em que atuo há 18 anos e instigada em participar no Bootcamp CAIXA -IA Generativa com Microsoft Copilot!!
+Por que não!? De repente retonar para área na qual me graduei em 2004 em TI mas que o destino me direcionou para outros caminhos em 2006 quando ingressei na Caixa!!
+E agora uma oportunidade no momento de Transformação Digital dentro da própria empresa a qual tenho orgulho de pertencer, a CAIXA e ter a possibildade de adquirir conhecimento e novas habilidades no Universo Digital e das IAs Generativas!!
+   
 1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+   1. Realizei o "fork"do repositório do Venilton da DIO, e criei uma cópia no meu GitHub pessoal;
+   2. Criei o meu README com os detalhes do projeto, baseada no [Template](#template) (template da DIO lab-natty-or-not)
+   3. O link do meu repositório na plataforma da DIO é (https://github.com/sandra-factori10/lab-natty-or-not/).
+   4. Pronto!! Criado o meu portfólio de projetos nos perfis do GitHub e DIO 🚀
 
 ### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty - Aprendendo Ias Generativas com a DIO no Desafio Natty or Not
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+PodCast - Aprendendo o Universo das IAs Generativas para iniciantes como Eu!? Será que sou iniciante? Natty or Not?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa ElevenLabs para clonagem e sintetização de voz;
+Software Descript para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+.    "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast.
+.    "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração
+.    "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresentei os resultados do projeto no Link da DIO  
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O projeto natty com IA destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
