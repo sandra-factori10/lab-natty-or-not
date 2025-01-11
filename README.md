@@ -34,16 +34,16 @@ PodCast - Aprendendo o Universo das IAs Generativas para iniciantes como Eu!? Se
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para roteirização e revisão;
 IA Generativa ElevenLabs para clonagem e sintetização de voz;
-Software Descript para edição e montagem do podcast.
+IA Generativa Canvas para a imagem
 
 ## 🧐 Processo de Criação
 .    "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast.
 .    "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração
-.    "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
+.    "Canva" foi essencial para a imagem do Podcast.
 
 ## 🚀 Resultados
-Apresentei os resultados do projeto no Link da DIO  
+Apresentei os resultados do projeto no Link da DIO sobre o Desafio Natty ou Not
 
 ## 💭 Reflexão (Opcional)
-O projeto natty com IA destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
+O projeto Natty or Not com IA destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo e visual abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
 
