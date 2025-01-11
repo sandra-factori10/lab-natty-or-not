@@ -12,7 +12,7 @@ Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" foi essencial para criar a voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no "Canva".
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é um Episódio do Canal de Sandrinha Factori que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador no mundo.
 
 [LINK PARA O VÍDEO AQUI]()
 
