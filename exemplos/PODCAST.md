@@ -1,7 +1,7 @@
-# Podcast: Sandrinha Factori Descobrindo IAs Generativas🎙️
+# Podcast: Aprendendo o Universo das IAs Generativas para iniciantes como Eu?!Será que sou iniciante? Natty or Not?🎙️
 
 ## 📒 Descrição
-Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência na tecnologia moderna.
+Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo das IAs Generativas e sua influência no dia a dia de qualquer pessoa leiga em Tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
