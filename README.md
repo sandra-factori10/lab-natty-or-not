@@ -46,5 +46,3 @@ Apresentei os resultados do projeto no Link da DIO sobre o Desafio Natty ou Not
 
 ## 💭 Reflexão (Opcional)
 O projeto Natty or Not com IA destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo e visual abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
-
-### Exemplos e Insigths
