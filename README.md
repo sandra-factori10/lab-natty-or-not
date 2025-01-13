@@ -4,8 +4,11 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, sou a Sandrinha Factori e inspirada por **[Venilton da DIO ](estou aqui para apresentar alguns aprendizados no universo das IAs!
+Olá pessoal, sou a Sandrinha Factori e inspirada por **Venilton da DIO e estou aqui para apresentar alguns aprendizados no universo das IAs!
 Inspirado na hype _"Natty or Not", este **[Lab da DIO](https://dio.me/me)** me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis e um universo novo para mim e muito interessante!! 
+
+Neste projeto criei um **Podcaster** e um **Video** como exemplos de roteiros utilizando ferramentas de **Inteligência Articial**
+
 Empolgada em adquirir novos conhecimentos...
 
 E Quem Sabe!?🤔...
@@ -21,9 +24,10 @@ E agora uma oportunidade no momento de Transformação Digital dentro da própri
    
 1. **Potfólio de Projetos**:
    1. Realizei o "fork"do repositório do Venilton da DIO, e criei uma cópia no meu GitHub pessoal;
-   2. Criei o meu README com os detalhes do projeto, baseada no [Template](#template) (template da DIO lab-natty-or-not)
-   3. O link do meu repositório na plataforma da DIO é (https://github.com/sandra-factori10/lab-natty-or-not/).
+   2. Criei o meu README com os detalhes do projeto, baseada no template da DIO lab-natty-or-not;
+   3. O link do meu repositório na plataforma da DIO é [Sandra Factori](https://github.com/sandra-factori10/lab-natty-or-not/).
    4. Pronto!! Criado o meu portfólio de projetos nos perfis do GitHub e DIO 🚀
+   5. Utilizei o Template abaixo para os projetos nos [Exemplos](https://github.com/sandra-factori10/lab-natty-or-not/)
 
 ### Template
 ```markdown
@@ -37,7 +41,7 @@ IA Generativa ChatGPT para roteirização e revisão;
 IA Generativa ElevenLabs para clonagem e sintetização de voz;
 IA Generativa Canvas para a imagem
 
-## 🧐 Processo de Criação
+## 🧐 Processo de Criação 
 .    "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast.
 .    "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração
 .    "Canva" foi essencial para a imagem do Podcast.
