@@ -15,7 +15,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" foi
 ## 🚀 Resultados
 O vídeo é um Episódio do Canal de Sandrinha Factori🎙️👩🏼‍🦰 que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador no mundo.
 
-[LINK PARA O VÍDEO AQUI](/)
+[LINK PARA O VÍDEO AQUI](exemplos/video_IAs_sintetizado.mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa sobre as IAs Generativas
