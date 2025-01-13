@@ -6,7 +6,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
 - IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- IA Generativa **[Canva](https://www.canva.com/pt_br/gerador-imagem-ia/))** para criação da capa do podcast.
+- IA Generativa **[Canva](https://www.canva.com/pt_br/gerador-imagem-ia/)** para criação da capa do podcast.
 
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Canva" foi essencial para a criação da imagem de capa do PODCAST
