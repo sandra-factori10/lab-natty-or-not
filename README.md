@@ -4,8 +4,9 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, sou a Sandrinha Factori e inspirada por Venilton da DIO estou aqui para apresentar alguns aprendizados no universo das IAs!
-Inspirado na hype _"Natty or Not", este Lab da DIO me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis e um universo novo para mim e muito interessante!! Empolgada em adquirir novos conhecimentos...
+Olá pessoal, sou a Sandrinha Factori e inspirada por **[Venilton da DIO ](estou aqui para apresentar alguns aprendizados no universo das IAs!
+Inspirado na hype _"Natty or Not", este **[Lab da DIO](https://dio.me/me)** me convidou a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis e um universo novo para mim e muito interessante!! 
+Empolgada em adquirir novos conhecimentos...
 
 E Quem Sabe!?🤔...
 Um Upgrade na minha Carreira dentro da CAIXA!
@@ -45,4 +46,4 @@ IA Generativa Canvas para a imagem
 Apresentei os resultados do projeto no Link da DIO sobre o Desafio Natty ou Not
 
 ## 💭 Reflexão (Opcional)
-O projeto Natty or Not com IA destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo e visual abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
+O projeto Natty or Not com IA destacou a versatilidade das IAs Generativas abrindo novos caminhos na produção de mídia digital e introduzindo neste projeto para "iniciantes" como "Eu"  iniciando no Mundo das IAs Generativas" um universo rico em aprendizado otimizado!!
