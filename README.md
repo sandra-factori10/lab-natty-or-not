@@ -27,7 +27,7 @@ E agora uma oportunidade no momento de Transformação Digital dentro da própri
    2. Criei o meu README com os detalhes do projeto, baseada no template da DIO lab-natty-or-not;
    3. O link do meu repositório na plataforma da DIO é [Sandra Factori](https://github.com/sandra-factori10/lab-natty-or-not/).
    4. Pronto!! Criado o meu portfólio de projetos nos perfis do GitHub e DIO 🚀
-   5. Utilizei o Template abaixo para os projetos nos [Exemplos](https://github.com/sandra-factori10/lab-natty-or-not/exemplos)
+   5. Utilizei o Template abaixo para os projetos e arquivos finais [Pasta Exemplos](https://github.com/sandra-factori10/lab-natty-or-not/)
 
 ### Template
 ```markdown
